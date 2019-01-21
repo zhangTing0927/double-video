@@ -12,9 +12,9 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "double-video": "^1.0.0",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "double-video": "^1.3.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
